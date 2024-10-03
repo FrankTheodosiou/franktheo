@@ -1,6 +1,6 @@
 # Fragkoulis Theodosiou
 <table>
-  <tr style="bordercolor:#white">
+  <tr bordercolor=white >
     <td>
       <ul>
         <li>**Email**: <a href="mailto:fragkoulis.theodosiou@durham.ac.uk">fragkoulis.theodosiou@durham.ac.uk</a></li>
