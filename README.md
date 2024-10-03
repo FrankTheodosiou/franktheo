@@ -1,5 +1,5 @@
 # Fragkoulis Theodosiou
-<table bordercolor=white >
+<table bordercolor="#FFFFFF" >
   <tr>
     <td>
       <ul>
