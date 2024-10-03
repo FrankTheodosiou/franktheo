@@ -5,6 +5,8 @@
 - **Phone**: +44(0)7518828790
 - ![image](https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42)
 
+- <img src="https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42" alt="Fragkoulis Theodosiou" style="width:150px; float:left; margin-right:10px;" />
+
 ## Educational Qualifications
 - **2022 – present**  
   **Ph.D., Durham University Chemistry**  
