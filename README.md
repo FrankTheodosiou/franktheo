@@ -1,9 +1,6 @@
 # Fragkoulis Theodosiou
 <table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42" alt="Fragkoulis Theodosiou" width="150"/>
-    </td>
+  <tr style="background-color:#FF0000">
     <td>
       <ul>
         <li>**Email**: <a href="mailto:fragkoulis.theodosiou@durham.ac.uk">fragkoulis.theodosiou@durham.ac.uk</a></li>
@@ -11,6 +8,9 @@
         <li>**LinkedIn**: <a href="http://www.linkedin.com/in/fragkoulis-theodosiou">linkedin.com/in/fragkoulis-theodosiou</a></li>
         <li>**Phone**: +44(0)7518828790</li>
       </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42" alt="Fragkoulis Theodosiou" width="200"/>
     </td>
   </tr>
 </table>
