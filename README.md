@@ -3,6 +3,7 @@
 - **Twitter**: [@FrankTheodosiou](https://twitter.com/FrankTheodosiou)
 - **LinkedIn**: [linkedin.com/in/fragkoulis-theodosiou](http://www.linkedin.com/in/fragkoulis-theodosiou)
 - **Phone**: +44(0)7518828790
+- ![image](https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42)
 
 ## Educational Qualifications
 - **2022 – present**  
