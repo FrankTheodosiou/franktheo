@@ -1,11 +1,19 @@
 # Fragkoulis Theodosiou
-- **Email**: [fragkoulis.theodosiou@durham.ac.uk](mailto:fragkoulis.theodosiou@durham.ac.uk)
-- **Twitter**: [@FrankTheodosiou](https://twitter.com/FrankTheodosiou)
-- **LinkedIn**: [linkedin.com/in/fragkoulis-theodosiou](http://www.linkedin.com/in/fragkoulis-theodosiou)
-- **Phone**: +44(0)7518828790
-- ![image](https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42)
-
-- <img src="https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42" alt="Fragkoulis Theodosiou" style="width:150px; float:left; margin-right:10px;" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/99615e2f-4800-493b-8d53-e6589e375c42" alt="Fragkoulis Theodosiou" width="150"/>
+    </td>
+    <td>
+      <ul>
+        <li>**Email**: <a href="mailto:fragkoulis.theodosiou@durham.ac.uk">fragkoulis.theodosiou@durham.ac.uk</a></li>
+        <li>**Twitter**: <a href="https://twitter.com/FrankTheodosiou">@FrankTheodosiou</a></li>
+        <li>**LinkedIn**: <a href="http://www.linkedin.com/in/fragkoulis-theodosiou">linkedin.com/in/fragkoulis-theodosiou</a></li>
+        <li>**Phone**: +44(0)7518828790</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Educational Qualifications
 - **2022 – present**  
